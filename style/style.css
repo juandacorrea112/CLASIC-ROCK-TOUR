@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.headerPrincipal{
+    background-image:url("../images/gunsNroses.jpg");
+    background-size: cover;
+}
+.clase1{
+    width: 100%;
+    height: 86vh;
+    color: white;
+    display: flex;
+    align-content: stretch;
+    justify-content: center;
+    align-items: flex-end;
+}
+.titulo{
+    text-align: center;
+    font-size: 85px;
+    text-shadow: 0px 0px 2px #000;
+    font-family: 'Bowlby One SC', cursive;
+}
+.texto1{
+    color: white;
+    background-color: #012b50;
+    padding: 1%;
+}
+.containerfourelements{
+    margin-top: 2%;
+    display: flex;
+}
+.elemento1{
+    max-width: 20em;
+    margin: 1em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFF;
+    box-shadow: 0 6px 16px #999;
+    font-size: 16.16px;
+}
+.fotoelemento1{   
+    max-height: 20em;
+    height: 40vh;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: center;
+    filter: grayscale(100%);
+}
+.nombre{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.informacionC1{
+    padding: 10px;
+    text-align: justify;
+    margin-top: 18px;
+    
+}
+.Nbanda{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding: 15px;
+    text-align: justify;
+    background: #012b50;
+    border-radius: 0 0 10px 10px;
+    margin-top: 88%;
+}
+/*ficha 2===========================================================*/
+.elemento2{
+    max-width: 20em;
+    margin: 1em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFF;
+    box-shadow: 0 6px 16px #999;
+    font-size: 17.1px;
+}
+.fotoelemento2{
+    max-height: 20em;
+    height: 40vh;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: center;
+    filter: grayscale(100%);
+}
+.nombre2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.informacionC2{
+    padding: 10px;
+    text-align: justify;
+    margin-top: 18px;
+}
+/*ficha 3 ===========================================*/
+.elemento3{
+    max-width: 20em;
+    margin: 1em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFF;
+    box-shadow: 0 6px 16px #999;
+    font-size: 15px;
+}
+.fotoelemento3{
+    max-height: 20em;
+    height: 40vh;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: center;
+    filter: grayscale(100%);
+}
+.nombre3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.informacionC3{
+    padding: 10px;
+    text-align: justify;
+    margin-top: 18px;   
+}
+/*ficha 4 ============================*/
+.elemento4{
+    max-width: 20em;
+    margin: 1em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFF;
+    box-shadow: 0 6px 16px #999;
+    font-size: 15.4px;
+}
+.fotoelemento4{
+    max-height: 20em;
+    height: 40vh;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: center;
+    filter: grayscale(100%);
+}
+.nombre4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.informacionC4{
+    padding: 10px;
+    text-align: justify;
+    margin-top: 18px;   
+}
